@@ -39,11 +39,11 @@ env:
 Secrets to a remotehost method 1
 =========
 
-Pass secrets from a vaulted file using vars_files
+Pass secrets from a vaulted file using
 [vars_files playbook]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_remotehost_method_1.yml "var_files playbook")
 
 Secrets to a remotehost method 2
 =========
 
-Pass secret from an inbeded vault file using vars
+Pass secret from an inbeded vault file using
 [vars playbook]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_remotehost_method_2.yml "vars playbook")
