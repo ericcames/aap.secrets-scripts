@@ -34,10 +34,10 @@ Secrets to a remotehost method 1
 =========
 
 **Pass secrets from a vaulted file using vars_files**
-- [vars_files]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_remotehost_method_1.yml "var_files")
+- [vars_files method]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_remotehost_method_1.yml "var_files method")
 
 Secrets to a remotehost method 2
 =========
 
 **Pass secret from an inbeded vault file using vars**
-- [vars]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_remotehost_method_2.yml "vars")
+- [vars method]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_remotehost_method_2.yml "vars method")
