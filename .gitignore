@@ -3,5 +3,3 @@ inventory
 env
 *.log
 *.orig
-images
-*.png
