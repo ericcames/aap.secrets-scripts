@@ -39,5 +39,5 @@ Secrets to a remotehost method 1
 Secrets to a remotehost method 2
 =========
 
-**Pass secret from an inbeded vault files using vars**
+**Pass secret from an inbeded vault file using vars**
 - [vars]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_remotehost_method_2.yml "vars")
