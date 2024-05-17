@@ -44,6 +44,12 @@ Pass secrets from a vaulted file using
 
 ![alt text](https://github.com/ericcames/aap.secrets-scripts/blob/main/images/templatewithavault.png "Template with a vaulted credential")
 
+Example vault contents
+------------
+```yaml
+dynatrace_api_key: 123456_secrets_are_here
+```
+
 Secrets to a remotehost method 2
 =========
 
@@ -51,3 +57,9 @@ Pass secret from an inbeded vault file using
 [vars playbook]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_remotehost_method_2.yml "vars playbook"). For this method to work you will need to create a vault credential in your AAP and relate it to your job template.
 
 ![alt text](https://github.com/ericcames/aap.secrets-scripts/blob/main/images/templatewithavault.png "Template with a vaulted credential")
+
+Example vault contents
+------------
+```yaml
+123456_secrets_are_here
+```
