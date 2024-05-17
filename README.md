@@ -1,11 +1,10 @@
 Ansible Automation Platform (AAP) secrets to scripts.
 =========
 
-This repository will show you how pass secrets to a script using a custom credential in AAP.
-    First we will have to create custom credential type.
-    Then we will use the credential type to create a credential that holds our secrets.
-    Then we will relate that credential to AAP job template.
+This repository will show you how pass secrets to a script in a safe and secure way.
 
+Secrets to localhost (AKA the execution environment)
+=========
 AAP Credential Type configurations
 ------------
 Input configuration
