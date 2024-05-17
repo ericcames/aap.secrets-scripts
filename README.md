@@ -30,7 +30,7 @@ env:
   DYNATRACE_API_KEY: '{{ DYNATRACE_API_KEY }}'
   freshservice_api_key: '{{ freshservice_api_key }}'
 ```
-- [Custom Credential method]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_localhost.yml "Custom Credential Method")
+[Custom Credential playbook]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_localhost.yml "Custom Credential playbook")
 
 ![alt text](https://github.com/ericcames/aap.secrets-scripts/blob/main/images/customcredentialtype.png "Credential Type")
 ![alt text](https://github.com/ericcames/aap.secrets-scripts/blob/main/images/customcredential.png "Credential")
