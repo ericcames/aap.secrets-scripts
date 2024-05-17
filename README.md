@@ -5,6 +5,9 @@ This repository will show you how pass secrets to a script in a safe and secure 
 
 Secrets to localhost (AKA the execution environment)
 =========
+
+This method creates an environment variable on the execution environment that is used by the python script.
+
 AAP Credential Type configurations
 ------------
 Input configuration
@@ -30,5 +33,11 @@ env:
 Secrets to a remotehost method 1
 =========
 
+**Pass secrets from a vaulted file using vars_files**
+- [vars_files]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_remotehost_method_1.yml "var_files")
+
 Secrets to a remotehost method 2
 =========
+
+**Pass secret from an inbeded vault files using vars**
+- [vars]( https://github.com/ericcames/aap.secrets-scripts/blob/main/playbooks/python_secrets_remotehost_method_2.yml "vars")
