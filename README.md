@@ -30,7 +30,7 @@ env:
   DYNATRACE_API_KEY: '{{ DYNATRACE_API_KEY }}'
   freshservice_api_key: '{{ freshservice_api_key }}'
 ```
-[alt text](https://github.com/ericcames/aap.secrets-scripts/blob/main/images/customcredentialtype.png "Logo Title Text 1")
+![alt text](https://github.com/ericcames/aap.secrets-scripts/blob/main/images/customcredentialtype.png "Logo Title Text 1")
 
 Secrets to a remotehost method 1
 =========
