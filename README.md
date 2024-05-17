@@ -32,6 +32,7 @@ env:
 ```
 ![alt text](https://github.com/ericcames/aap.secrets-scripts/blob/main/images/customcredentialtype.png "Credential Type")
 ![alt text](https://github.com/ericcames/aap.secrets-scripts/blob/main/images/customcredential.png "Credential")
+![alt text](https://github.com/ericcames/aap.secrets-scripts/blob/main/images/template_credential.png "Template")
 
 Secrets to a remotehost method 1
 =========
